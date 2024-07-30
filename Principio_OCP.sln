@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP", "Principio_OCP\Principio_OCP.csproj", "{8980D297-6FB8-44D4-9C58-5038B6252868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8980D297-6FB8-44D4-9C58-5038B6252868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8980D297-6FB8-44D4-9C58-5038B6252868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8980D297-6FB8-44D4-9C58-5038B6252868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8980D297-6FB8-44D4-9C58-5038B6252868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419B748F-2D8E-41E0-9F0E-551AD11E472D}
+	EndGlobalSection
+EndGlobal
